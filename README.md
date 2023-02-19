@@ -1,2 +1,2 @@
 # taarkshya-finance-management
-Preparing for the eth-for-all hackathon smruthyadhikarana
+Preparing for the eth-for-all hackathon
